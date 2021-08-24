@@ -33,7 +33,7 @@ also give me a shout out [@beyou7060](https://twitter.com/intent/tweet?text=Hi%2
  
 ### A Little Coding
 
-Also, I 💕 to make other type of educational videos, mainly for students. 
+Also, I 💕 to make other type of videos (educational), mainly for students. 
 
 Here are a few:
 - [▶️ 5 Small Changes Every CSE/IT Student Should Do](https://youtu.be/mFNJoBGgHkA)
