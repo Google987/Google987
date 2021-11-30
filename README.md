@@ -15,7 +15,7 @@ I'm Arif Khan. I work as a Sofware Engineer 💻.  I love to learn new things an
 
 Here are some of my recent videos/experiments:
 
-- [▶️ Twitter Bot that will Retweet and Like Your Tweet](https://youtu.be/AsO2ld8J-9o) if you use [#aLittleCoding](https://twitter.com/intent/tweet?text=Hi%2C%0A%0A%40arif_decrypted%0A%23aLittleCoding) or [@arif_decrypted](https://twitter.com/intent/tweet?text=Hi%2C%0A%0A%40arif_decrypted%0A%23aLittleCoding) in your tweet. 
+- [▶️ Twitter Bot that will Retweet and Like Your Tweet](https://youtu.be/AsO2ld8J-9o) if you use [#aLittleCoding](https://twitter.com/intent/tweet?text=Hi%2C%0A%0A%40arif_decrypted%0A%23aLittleCoding) <!--- or [@arif_decrypted](https://twitter.com/intent/tweet?text=Hi%2C%0A%0A%40arif_decrypted%0A%23aLittleCoding) --> in your tweet. 
 - [▶️ If You Watch This Video Magic will Happen](https://youtu.be/7frtQFIytY4)
   - [![image](https://user-images.githubusercontent.com/30652896/130608827-35ff9a1f-60c8-4de3-8cff-822bd21d2b2d.png)](https://youtu.be/7frtQFIytY4)
 - [▶️ If You Subscribe to My Channel](https://youtu.be/4PExr-7kWL8) these counts on my Twitter profile will get updated automatically.
