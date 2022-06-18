@@ -9,7 +9,7 @@
 <a href="https://facebook.com/alittlecoding"><img height="30" src="https://user-images.githubusercontent.com/30652896/130605458-856387af-e682-4aca-b576-03ff0e221a6d.png"></a>
 </p>
 
-Hello Everyone, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hello Everyone, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
 
 I'm Arif Khan. I work as a Sofware Engineer 💻.  I love to learn new things and share with others. Although I know very little but whatever I know, I love to share that through my [YOUTUBE channel](https://youtube.com/alittlecoding)
